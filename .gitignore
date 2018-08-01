@@ -5,8 +5,8 @@
 obj/
 Library/
 Temp/
-Assets/_Complete-Game/
-Assets/TutorialInfo/
+_Complete-Game/
+TutorialInfo/
 
 # FILES IN ASSETS/ #
 ####################
