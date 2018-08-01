@@ -1,0 +1,14 @@
+# FOLDERS #
+###########
+
+.vscode/
+obj/
+Library/
+Temp/
+Assets/_Complete-Game/
+Assets/TutorialInfo/
+
+# FILES IN ASSETS/ #
+####################
+
+*.meta
